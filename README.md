@@ -40,7 +40,7 @@
         </tr>
     </table>
     <section>
-        <h2> 희정이가 좋아하는 노래</h3>
+        <h2> 희정이가 좋아하는 노래</h3> <br>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/7ioGCoB-8DY" title="YouTube video player"
          frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
          allowfullscreen></iframe>
